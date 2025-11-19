@@ -1,1 +1,1 @@
-# Replishment-Quantum-Retail-Store
+﻿# Quantum-Retail-store (Quantum)
